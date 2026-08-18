@@ -42,7 +42,29 @@ We operate remotely from Chiang Mai, Thailand — combining creative agility wit
 
 ***
 
-## Spotlight
+### Spotlight
+
+
+
+### What We Create
+
+**Interactive Experiences**\
+Digital experiences designed around interaction and engagement.
+
+**Creative Technology**\
+Experimental systems that turn ideas into working experiences.
+
+**Interactive Installations**\
+Physical spaces enhanced through sensors, screens, projection and interaction.
+
+[**Web Experiences**](service/web-design-chiangmai.md)\
+Interactive websites and digital experiences beyond traditional web design.
+
+**AR / VR**\
+Immersive experiences for products, education, exhibitions and entertainment.
+
+**Games & Interactive Systems**\
+Games, simulations and playful systems that make technology engaging.
 
 
 
