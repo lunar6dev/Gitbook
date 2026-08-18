@@ -176,8 +176,6 @@ Tell us your idea — we’ll help you visualize it.
 
 
 
-### Contact
+### More Infomation?
 
-Available for project-based collaboration, long-term outsourcing partnerships, and embedded design support.
-
-<table><thead><tr><th width="143"></th><th></th></tr></thead><tbody><tr><td>Email</td><td><a href="mailto:lunar6.dev@gmail.com">lunar6.dev@gmail.com</a></td></tr><tr><td>Line@</td><td><a href="https://line.me/R/ti/p/@409kjwfa">@409kjwfa</a></td></tr></tbody></table>
+<a href="../contact.md" class="button primary" data-icon="face-smile-wink">Ask me!</a>
