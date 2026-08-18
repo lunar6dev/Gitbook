@@ -1,5 +1,5 @@
 ---
-description: ✦ Per aspera ad astra ✦
+description: Chiang Mai, Thailand
 icon: house
 cover: >-
   https://images.unsplash.com/photo-1457364887197-9150188c107b?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw0fHxzcGFjZSUyMHh8ZW58MHx8fHwxNzUxMDA4ODIxfDA&ixlib=rb-4.1.0&q=85
@@ -28,9 +28,9 @@ layout:
     visible: true
 ---
 
-# Lunar 6
+# Lunar 6 - Interactive Design Studio
 
-## Interactive Design Studio, Chiang Mai
+✦ Per aspera ad astra ✦
 
 Lunar6 designs and builds interactive digital experiences, creative technology, and immersive systems that connect people, ideas, and technology.
 
@@ -48,23 +48,14 @@ We operate remotely from Chiang Mai, Thailand — combining creative agility wit
 
 ### What We Create
 
-**Interactive Experiences**\
-Digital experiences designed around interaction and engagement.
+INTERACTIVE\
+Interactive experiences, installations, web experiences, games.
 
-**Creative Technology**\
-Experimental systems that turn ideas into working experiences.
+**CREATIVE TECHNOLOGY**\
+Experimental interfaces, real-time systems, AR/VR and emerging technology.
 
-**Interactive Installations**\
-Physical spaces enhanced through sensors, screens, projection and interaction.
-
-[**Web Experiences**](service/web-design-chiangmai.md)\
-Interactive websites and digital experiences beyond traditional web design.
-
-**AR / VR**\
-Immersive experiences for products, education, exhibitions and entertainment.
-
-**Games & Interactive Systems**\
-Games, simulations and playful systems that make technology engaging.
+**AI & DIGITAL WORLDS**\
+AI agent visuals, pixel art, digital assets, virtual environments and experimental AI experiences.
 
 
 
@@ -89,6 +80,6 @@ Lunar6 – Interactive Design Studio (Chiang Mai)
 
 我们作为灵活的外包设计合作伙伴，与初创公司、中小企业、代理机构及全球团队合作，为客户提供快速执行与战略思维并重的设计解决方案。
 
-[![](https://dbdregistered.dbd.go.th/api/public/banner?param=CB2E74B5CA6C10C734FFB7DE355A57556BD5F9BBB2B3909EB2AF3A2E1FE68E0C)](https://dbdregistered.dbd.go.th/api/public/shopinfo?param=CB2E74B5CA6C10C734FFB7DE355A57556BD5F9BBB2B3909EB2AF3A2E1FE68E0C)
-
 我们远程运营于泰国清迈，将创意敏捷性与国际协作标准相结合，为全球客户提供高质量设计服务。
+
+[![](https://dbdregistered.dbd.go.th/api/public/banner?param=CB2E74B5CA6C10C734FFB7DE355A57556BD5F9BBB2B3909EB2AF3A2E1FE68E0C)](https://dbdregistered.dbd.go.th/api/public/shopinfo?param=CB2E74B5CA6C10C734FFB7DE355A57556BD5F9BBB2B3909EB2AF3A2E1FE68E0C)
