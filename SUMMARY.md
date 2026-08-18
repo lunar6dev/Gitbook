@@ -10,3 +10,4 @@
 * [Game Assets](game-assets.md)
 * [Game Dev Course for Students - Chiang Mai](gamedev-course-chiangmai.md)
 * [Crab Punk Riot](crab-punk-riot.md)
+* [Contact](contact.md)
