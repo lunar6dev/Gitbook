@@ -54,21 +54,15 @@ We operate remotely from Chiang Mai, Thailand — combining creative agility wit
 * Bangkok Professional & Private Detective Agency
 * [Ministry of energy - International Energy Cooperation Center : IECC](https://iecc.energy.go.th/)
 
+{% hint style="info" %}
+Lunar6 – Interactive Design Studio (Chiang Mai)
 
+บริการ / Services: ออกแบบเว็บไซต์ (แก้เว็บ เชียงใหม่), UX/UI Design, Branding, Interactive Media, AR/VR, Product Prototype, Game Assets\
+พื้นที่ให้บริการ: เชียงใหม่, กรุงเทพ, ประเทศไทย, เอเชียตะวันออกเฉียงใต
+{% endhint %}
 
 **Lunar 6 Design Studios 是一支由资深设计师组成的小型设计团队，专注于数字产品体验、创意设计系统以及互动媒体。**
 
 我们作为灵活的外包设计合作伙伴，与初创公司、中小企业、代理机构及全球团队合作，为客户提供快速执行与战略思维并重的设计解决方案。
 
 我们远程运营于泰国清迈，将创意敏捷性与国际协作标准相结合，为全球客户提供高质量设计服务。
-
-
-
-{% hint style="info" %}
-Lunar6 – Interactive Design Studio (Chiang Mai)
-
-บริการ / Services: ออกแบบเว็บไซต์ (แก้เว็บ เชียงใหม่), UX/UI Design, Branding, Interactive Media, AR/VR, Product Prototype, Game Assets\
-พื้นที่ให้บริการ: เชียงใหม่, กรุงเทพ, ประเทศไทย, เอเชียตะวันออกเฉียงใต้
-{% endhint %}
-
-[![](https://dbdregistered.dbd.go.th/api/public/banner?param=CB2E74B5CA6C10C734FFB7DE355A57556BD5F9BBB2B3909EB2AF3A2E1FE68E0C)](https://dbdregistered.dbd.go.th/api/public/shopinfo?param=CB2E74B5CA6C10C734FFB7DE355A57556BD5F9BBB2B3909EB2AF3A2E1FE68E0C)
