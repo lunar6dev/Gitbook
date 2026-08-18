@@ -56,14 +56,6 @@ We operate remotely from Chiang Mai, Thailand — combining creative agility wit
 
 
 
-**Lunar 6 Design Studios 是一支由资深设计师组成的小型设计团队，专注于数字产品体验、创意设计系统以及互动媒体。**
-
-我们作为灵活的外包设计合作伙伴，与初创公司、中小企业、代理机构及全球团队合作，为客户提供快速执行与战略思维并重的设计解决方案。
-
-我们远程运营于泰国清迈，将创意敏捷性与国际协作标准相结合，为全球客户提供高质量设计服务。
-
-
-
 {% hint style="info" %}
 Lunar6 – Interactive Design Studio (Chiang Mai)
 
@@ -71,4 +63,10 @@ Lunar6 – Interactive Design Studio (Chiang Mai)
 พื้นที่ให้บริการ: เชียงใหม่, กรุงเทพ, ประเทศไทย, เอเชียตะวันออกเฉียงใต้
 {% endhint %}
 
+**Lunar 6 Interactive Design Studio 是一支由资深设计师组成的小型设计团队，专注于数字产品体验、创意设计系统以及互动媒体。**
+
+我们作为灵活的外包设计合作伙伴，与初创公司、中小企业、代理机构及全球团队合作，为客户提供快速执行与战略思维并重的设计解决方案。
+
 [![](https://dbdregistered.dbd.go.th/api/public/banner?param=CB2E74B5CA6C10C734FFB7DE355A57556BD5F9BBB2B3909EB2AF3A2E1FE68E0C)](https://dbdregistered.dbd.go.th/api/public/shopinfo?param=CB2E74B5CA6C10C734FFB7DE355A57556BD5F9BBB2B3909EB2AF3A2E1FE68E0C)
+
+我们远程运营于泰国清迈，将创意敏捷性与国际协作标准相结合，为全球客户提供高质量设计服务。
