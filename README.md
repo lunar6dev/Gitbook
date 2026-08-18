@@ -1,5 +1,5 @@
 ---
-description: ✦Creative ✦Innovation ✦Solution
+description: ✦ Per aspera ad astra ✦
 icon: house
 cover: >-
   https://images.unsplash.com/photo-1457364887197-9150188c107b?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw0fHxzcGFjZSUyMHh8ZW58MHx8fHwxNzUxMDA4ODIxfDA&ixlib=rb-4.1.0&q=85
@@ -28,9 +28,11 @@ layout:
     visible: true
 ---
 
-# Lunar6 - Interactive Design Studio, Chiang Mai
+# Lunar 6
 
-Interactive | Web Design | Branding | ARVR | Prototype
+## Interactive Design Studio, Chiang Mai
+
+Lunar6 designs and builds interactive digital experiences, creative technology, and immersive systems that connect people, ideas, and technology.
 
 **We turn ideas into interactive experiences — fast, clear, and ready to move forward.**
 
@@ -42,39 +44,9 @@ We operate remotely from Chiang Mai, Thailand — combining creative agility wit
 
 ***
 
-{% columns %}
-{% column %}
-<figure><img src=".gitbook/assets/3D_TheHavestMoon_fin.gif" alt="" width="375"><figcaption></figcaption></figure>
-{% endcolumn %}
+## Spotlight
 
-{% column %}
-### Ideal Clients
 
-* Startups building or refining digital products
-* Tech companies needing flexible design support
-* Agencies looking for external creative capacity
-* Businesses expanding into Asia
-* Teams that need design clarity and fast progress
-{% endcolumn %}
-{% endcolumns %}
-
-## Featured Work
-
-### Why Work With Lunar6
-
-Most studios deliver output.\
-We build experiences people remember.\
-Lunar6 works at the intersection of design, technology, and human emotion — where the best digital products live.
-
-✦ Anyone can use AI tools. We use them to push further — not to cut corners.\
-When AI-generated looks and templated thinking flood the market, original craft becomes rare. That's our territory.
-
-|                                                                                                                        |                                                                                                                      |
-| ---------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
-| <p>Senior team, zero fluff<br>You talk directly to the people doing the work — no account managers in the middle.</p> | <p>Fast + strategic<br>We move quickly because we've already thought through what matters. No rework cycles.</p>    |
-| <p>Art meets code<br>We build systems that are functional, experiential, and meaningful — not just shipped.</p>       | <p>Remote-first, globally sharp<br>Chiang Mai timezone, international standard. Async-ready, always accessible.</p> |
-
-> ### If you want a vendor, there are thousands. If you want a creative technology partner who gives a damn — let's talk.
 
 ### Featured Clients
 
@@ -84,11 +56,7 @@ When AI-generated looks and templated thinking flood the market, original craft 
 * Bangkok Professional & Private Detective Agency
 * [Ministry of energy - International Energy Cooperation Center : IECC](https://iecc.energy.go.th/)
 
-### Contact
 
-Available for project-based collaboration, long-term outsourcing partnerships, and embedded design support.
-
-<table><thead><tr><th width="143"></th><th></th></tr></thead><tbody><tr><td>Email</td><td><a href="mailto:lunar6.dev@gmail.com">lunar6.dev@gmail.com</a></td></tr><tr><td>Line@</td><td><a href="https://line.me/R/ti/p/@409kjwfa">@409kjwfa</a></td></tr><tr><td>Whatapp</td><td>Upcoming</td></tr></tbody></table>
 
 **Lunar 6 Design Studios 是一支由资深设计师组成的小型设计团队，专注于数字产品体验、创意设计系统以及互动媒体。**
 

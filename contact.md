@@ -9,3 +9,5 @@ icon: face-smile-plus
 
 <table><thead><tr><th width="143"></th><th></th></tr></thead><tbody><tr><td>Email</td><td><a href="mailto:lunar6.dev@gmail.com">lunar6.dev@gmail.com</a></td></tr><tr><td>Line@</td><td><a href="https://line.me/R/ti/p/@409kjwfa">@409kjwfa</a></td></tr><tr><td>Whatapp</td><td>Upcoming</td></tr></tbody></table>
 
+Lunar6 is an independent interactive experience studio based in Thailand.
+
