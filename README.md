@@ -53,6 +53,10 @@ Early ideas are fragile.\
 We help transform abstract visions into interactive demos that teams can test, pitch, and believe in.
 {% endhint %}
 
+We design the visuals first, then build them into working Website, AR/VR, Art Assets and interactive prototypes — not just concepts.
+
+_As an interactive design studio in Chiang Mai, we work on everything from UX/UI design and web fixes to full interactive experience design — for startups across Thailand and Southeast Asia._
+
 ### Service
 
 **From Brand Visuals to Interactive Prototypes**
@@ -75,6 +79,8 @@ We help transform abstract visions into interactive demos that teams can test, p
 * Prototype-first mindset
 * Visual decisions that make investors and users believe it's real
 * We hand off art-directed, developer-ready assets
+
+Whether you need a startup prototype, an interactive installation, or a simulation design for pitching investors — we treat every project as a chance to build something original, not templated.
 
 {% columns %}
 {% column %}
@@ -133,11 +139,8 @@ Available for project-based collaboration, long-term outsourcing partnerships, a
 {% hint style="info" %}
 Lunar6 – Interactive Design Studio (Chiang Mai)
 
-บริการ / Services / 服务项目: Website Development, UX/UI Design, Branding, Interactive Media, AR/VR พื้นที่ให้บริการ / Service Areas / 服务范围: Chiang Mai, Bangkok, Thailand, Southeast Asia &#x20;
+บริการ / Services: ออกแบบเว็บไซต์ (แก้เว็บ เชียงใหม่), UX/UI Design, Branding, Interactive Media, AR/VR, Product Prototype, Game Assets\
+พื้นที่ให้บริการ: เชียงใหม่, กรุงเทพ, ประเทศไทย, เอเชียตะวันออกเฉียงใต้
 {% endhint %}
-
-interactive prototype Chiang Mai, UX design Thailand, web fix Thailand, startup prototype Southeast Asia, design studio Chiang Mai, แก้เว็บ เชียงใหม่, interactive experience design Thailand
-
-creative technology studio | interactive design studio | immersive experience studio | AR/VR experience design | interactive installation | simulation design | Game Assets
 
 [![](https://dbdregistered.dbd.go.th/api/public/banner?param=CB2E74B5CA6C10C734FFB7DE355A57556BD5F9BBB2B3909EB2AF3A2E1FE68E0C)](https://dbdregistered.dbd.go.th/api/public/shopinfo?param=CB2E74B5CA6C10C734FFB7DE355A57556BD5F9BBB2B3909EB2AF3A2E1FE68E0C)
