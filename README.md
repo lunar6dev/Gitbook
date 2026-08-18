@@ -34,6 +34,8 @@ layout:
 
 Lunar6 designs and builds interactive digital experiences, creative technology, and immersive systems that connect people, ideas, and technology.
 
+## Creative Technology & Interactive Experience Studio
+
 **We turn ideas into interactive experiences — fast, clear, and ready to move forward.**
 
 {% hint style="info" %}
@@ -48,14 +50,20 @@ We operate remotely from Chiang Mai, Thailand — combining creative agility wit
 
 ### What We Create
 
-INTERACTIVE\
-Interactive experiences, installations, web experiences, games.
+**Interactive Experiences**\
+Interactive digital experiences designed to engage people through technology, play, and exploration.
 
-**CREATIVE TECHNOLOGY**\
-Experimental interfaces, real-time systems, AR/VR and emerging technology.
+**Creative Technology**\
+Experimental technology, interactive systems, real-time experiences, and digital prototypes.
 
-**AI & DIGITAL WORLDS**\
-AI agent visuals, pixel art, digital assets, virtual environments and experimental AI experiences.
+**Interactive Installations**\
+Interactive installations combining physical spaces, sensors, screens, projection, and digital media.
+
+**Web & Digital Experiences**\
+Interactive websites, WebGL experiences, digital products, and immersive web experiences.
+
+**AI & Digital Worlds**\
+AI experiences, digital assets, virtual environments, and experimental AI interfaces.
 
 
 
@@ -71,7 +79,7 @@ AI agent visuals, pixel art, digital assets, virtual environments and experiment
 
 ### Contact us
 
-<a href="contact.md" class="button primary" data-icon="face-smile-wink">Click me</a>
+<a href="contact.md" class="button primary" data-icon="face-smile-wink">Let's build something interactive.</a>
 
 
 
