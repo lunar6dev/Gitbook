@@ -28,7 +28,7 @@ layout:
     visible: true
 ---
 
-# Lunar6 — Interactive Design Studio (Chiang Mai)
+# Lunar6 - Interactive Design Studio, Chiang Mai
 
 Interactive | Web Design | Branding | ARVR | Prototype
 
@@ -38,49 +38,9 @@ Interactive | Web Design | Branding | ARVR | Prototype
 We operate remotely from Chiang Mai, Thailand — combining creative agility with international collaboration standards.
 {% endhint %}
 
-<table data-view="cards"><thead><tr><th></th><th data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td><a href="interactive-medical-chiangmai.md">interactive-medical-chiangmai.md</a></td></tr><tr><td></td><td><a href="google-business-chiangmai.md">google-business-chiangmai.md</a></td></tr><tr><td></td><td><a href="orbit.md">orbit.md</a></td></tr><tr><td></td><td><a href="ar-vr-chiangmai/">ar-vr-chiangmai</a></td></tr><tr><td></td><td><a href="web-design-chiangmai.md">web-design-chiangmai.md</a></td></tr><tr><td></td><td><a href="gamedev-course-chiangmai.md">gamedev-course-chiangmai.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td><a href="lab/interactive-medical-chiangmai.md">interactive-medical-chiangmai.md</a></td></tr><tr><td></td><td><a href="service/google-business-chiangmai.md">google-business-chiangmai.md</a></td></tr><tr><td></td><td><a href="lab/orbit.md">orbit.md</a></td></tr><tr><td></td><td><a href="service/ar-vr-chiangmai/">ar-vr-chiangmai</a></td></tr><tr><td></td><td><a href="service/web-design-chiangmai.md">web-design-chiangmai.md</a></td></tr><tr><td></td><td><a href="lab/gamedev-course-chiangmai.md">gamedev-course-chiangmai.md</a></td></tr></tbody></table>
 
 ***
-
-### **What We Do**&#x20;
-
-**Where Art Meets Interactive Technology**
-
-We design the visuals first, then build them into working Website, AR/VR, Art Assets and interactive prototypes — not just concepts.
-
-{% hint style="info" %}
-Early ideas are fragile.\
-We help transform abstract visions into interactive demos that teams can test, pitch, and believe in.
-{% endhint %}
-
-We design the visuals first, then build them into working Website, AR/VR, Art Assets and interactive prototypes — not just concepts.
-
-_As an interactive design studio in Chiang Mai, we work on everything from UX/UI design and web fixes to full interactive experience design — for startups across Thailand and Southeast Asia._
-
-### Service
-
-**From Brand Visuals to Interactive Prototypes**
-
-#### **Visual & Brand** — Logo, Character/Mascot, Illustration, Brand Identity
-
-* Product Prototype Design
-* Interactive Experience Design (AR,VR)
-* Website & Digital Experience
-* Visual & Art Assets (3D,2D)
-* Creative Technology Experiments
-* Unity-powered interactive design
-* Brand identity & visual language
-
-#### **Interactive & Experience** — AR/VR Design, Product Prototypes, Interactive Installations, Unity-powered Experiences
-
-#### Prototyping & MVP Thinking
-
-* We sketch, test, and refine — visually first
-* Prototype-first mindset
-* Visual decisions that make investors and users believe it's real
-* We hand off art-directed, developer-ready assets
-
-Whether you need a startup prototype, an interactive installation, or a simulation design for pitching investors — we treat every project as a chance to build something original, not templated.
 
 {% columns %}
 {% column %}

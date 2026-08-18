@@ -10,7 +10,7 @@ tags:
 
 <figure><img src="https://images.unsplash.com/photo-1594663653925-365bcbf7ef86?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwyfHxnb29nbGV8ZW58MHx8fHwxNzg1ODI2MTkwfDA&#x26;ixlib=rb-4.1.0&#x26;q=85" alt=""><figcaption></figcaption></figure>
 
-### ร้านคุณอยู่ตรงนี้... แต่ทำไมลูกค้าในเชียงใหม่หากไม่เจอ?
+ร้านคุณอยู่ตรงนี้... แต่ทำไมลูกค้าในเชียงใหม่หากไม่เจอ?
 
 > ดันร้านค้า คาเฟ่ และธุรกิจของคุณให้ขึ้น หน้าแรก Google Maps ดึงดูดลูกค้านักท่องเที่ยวและคนท้องถิ่นให้เดินเข้าร้านทุกวัน ด้วยบริการ Local SEO มืออาชีพ
 

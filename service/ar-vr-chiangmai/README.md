@@ -11,7 +11,7 @@ tags:
 
 # XR AR VR
 
-<figure><img src="../.gitbook/assets/lunar6_acp43_model.gif" alt="Low polygon - 3D modeling"><figcaption><p>3D Lowpolygon Model include data</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/lunar6_acp43_model.gif" alt="Low polygon - 3D modeling"><figcaption><p>3D Lowpolygon Model include data</p></figcaption></figure>
 
 {% tabs %}
 {% tab title="Service" %}
@@ -63,7 +63,7 @@ Lunar6 คือทีมผู้เชี่ยวชาญด้าน **AR V
 {% endtab %}
 {% endtabs %}
 
-<div><figure><img src="../.gitbook/assets/AR_7Portal.gif" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/AR_7Game_Prototype.gif" alt="" width="141"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/AR_7Portal.gif" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/AR_7Game_Prototype.gif" alt="" width="141"><figcaption></figcaption></figure></div>
 
 
 

@@ -5,7 +5,7 @@ icon: browser
 
 # Web Design
 
-<figure><img src=".gitbook/assets/site_owlvita_1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/site_owlvita_1.png" alt=""><figcaption></figcaption></figure>
 
 {% tabs %}
 {% tab title="Information" %}
@@ -153,13 +153,13 @@ Tell us your idea — we’ll help you visualize it.
 {% endtab %}
 {% endtabs %}
 
-<figure><img src=".gitbook/assets/site_cmdetective_1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/site_cmdetective_1.png" alt=""><figcaption></figcaption></figure>
 
-<div><figure><img src=".gitbook/assets/site_mangoecho_1.png" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/site_nppro_1.png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/site_mangoecho_1.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/site_nppro_1.png" alt=""><figcaption></figcaption></figure></div>
 
 
 
-<div><figure><img src=".gitbook/assets/site_thaibizgo_1.png" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/site_ieec_1.png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/site_thaibizgo_1.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/site_ieec_1.png" alt=""><figcaption></figcaption></figure></div>
 
 ### Clients
 

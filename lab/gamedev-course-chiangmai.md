@@ -94,7 +94,7 @@ tags:
 
 {% columns %}
 {% column width="33.33333333333333%" %}
-<div align="left"><figure><img src=".gitbook/assets/1704338242235.jpg" alt="" width="188"><figcaption><p>Watcharaphong (NYX) Meearharn</p></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/1704338242235.jpg" alt="" width="188"><figcaption><p>Watcharaphong (NYX) Meearharn</p></figcaption></figure></div>
 {% endcolumn %}
 
 {% column width="66.66666666666667%" %}
