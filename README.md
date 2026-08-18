@@ -40,8 +40,6 @@ Lunar6 designs and builds interactive digital experiences, creative technology, 
 We operate remotely from Chiang Mai, Thailand — combining creative agility with international collaboration standards.
 {% endhint %}
 
-<table data-view="cards"><thead><tr><th></th><th data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td><a href="lab/interactive-medical-chiangmai.md">interactive-medical-chiangmai.md</a></td></tr><tr><td></td><td><a href="service/google-business-chiangmai.md">google-business-chiangmai.md</a></td></tr><tr><td></td><td><a href="lab/orbit.md">orbit.md</a></td></tr><tr><td></td><td><a href="service/ar-vr-chiangmai/">ar-vr-chiangmai</a></td></tr><tr><td></td><td><a href="service/web-design-chiangmai.md">web-design-chiangmai.md</a></td></tr><tr><td></td><td><a href="lab/gamedev-course-chiangmai.md">gamedev-course-chiangmai.md</a></td></tr></tbody></table>
-
 ***
 
 ## Spotlight
@@ -63,6 +61,8 @@ We operate remotely from Chiang Mai, Thailand — combining creative agility wit
 我们作为灵活的外包设计合作伙伴，与初创公司、中小企业、代理机构及全球团队合作，为客户提供快速执行与战略思维并重的设计解决方案。
 
 我们远程运营于泰国清迈，将创意敏捷性与国际协作标准相结合，为全球客户提供高质量设计服务。
+
+
 
 {% hint style="info" %}
 Lunar6 – Interactive Design Studio (Chiang Mai)

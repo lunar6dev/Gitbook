@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Lunar 6](README.md)
-* [Studio](studio.md)
+* [About](about.md)
 * [Service](service/README.md)
   * [Google Map Optimization](service/google-business-chiangmai.md)
   * [XR AR VR](service/ar-vr-chiangmai/README.md)

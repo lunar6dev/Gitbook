@@ -1,12 +1,9 @@
 ---
-icon: palette
+description: Lunar6 is an independent interactive experience studio based in Thailand.
+icon: face-smile
 ---
 
-# Studio
-
-### **About Lunar6**
-
-
+# About
 
 ### **What We Do**&#x20;
 
