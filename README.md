@@ -69,6 +69,12 @@ AI agent visuals, pixel art, digital assets, virtual environments and experiment
 
 
 
+### Contact us
+
+<a href="contact.md" class="button primary" data-icon="face-smile-wink">Click me</a>
+
+
+
 {% hint style="info" %}
 Lunar6 – Interactive Design Studio (Chiang Mai)
 
