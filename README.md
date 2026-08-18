@@ -1,5 +1,5 @@
 ---
-description: Chiang Mai, Thailand
+description: ✦ Per aspera ad astra ✦
 icon: house
 cover: >-
   https://images.unsplash.com/photo-1457364887197-9150188c107b?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw0fHxzcGFjZSUyMHh8ZW58MHx8fHwxNzUxMDA4ODIxfDA&ixlib=rb-4.1.0&q=85
@@ -28,9 +28,7 @@ layout:
     visible: true
 ---
 
-# Lunar 6 - Interactive Design Studio
-
-✦ Per aspera ad astra ✦
+# Lunar 6 - Interactive Design Studio, Chiang Mai
 
 Lunar6 designs and builds interactive digital experiences, creative technology, and immersive systems that connect people, ideas, and technology.
 

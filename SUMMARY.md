@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Lunar 6 - Interactive Design Studio](README.md)
+* [Lunar 6 - Interactive Design Studio, Chiang Mai](README.md)
 * [About](about.md)
 * [Service](service/README.md)
   * [Google Map Optimization](service/google-business-chiangmai.md)
