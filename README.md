@@ -28,7 +28,7 @@ layout:
     visible: true
 ---
 
-# Lunar 6 - Interactive Design Studio, Chiang Mai
+# Lunar 6 - Interactive Design Studio | Chiang Mai
 
 Lunar6 designs and builds interactive digital experiences, creative technology, and immersive systems that connect people, ideas, and technology.
 
@@ -47,6 +47,8 @@ We operate remotely from Chiang Mai, Thailand — combining creative agility wit
 
 
 ### What We Create
+
+<figure><img src=".gitbook/assets/Lunar6_QPip_mascot_design_0.png" alt=""><figcaption></figcaption></figure>
 
 **Interactive Experiences**\
 Interactive digital experiences designed to engage people through technology, play, and exploration.
